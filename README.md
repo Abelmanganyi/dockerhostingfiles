@@ -3,7 +3,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Sample Deployment</title>
+  <title>Home Page PHP t</title>
   <style>
     body {
       color: #ffffff;
